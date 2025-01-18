@@ -35,8 +35,8 @@ cd backend
 -  Install dependencies
 npm install
 
-  ## onfigure PostgreSQL
- -Create a PostgreSQL database named 'pokemon_db'
+  ## Configure PostgreSQL
+ - Create a PostgreSQL database named 'pokemon_db'
 
 -  Update the 'server.js' file with your database credentials
 - Seed the database
@@ -45,8 +45,8 @@ node seed.js
 -  Start the backend server
 node server.js
 
--  Frontend Setup
-# Navigate to the frontend folder
+  ## Frontend Setup
+- Navigate to the frontend folder
 cd pokemon
 
 -  Install dependencies
