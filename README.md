@@ -28,15 +28,15 @@ The Pokémon Explorer is a full-stack web application that fetches Pokémon data
 git clone https://github.com/KARTHICKJK1208/POKEMON-EXPLORER.git
 cd pokemon
 
--  Backend Setup
-### Navigate to the backend folder
+## Backend Setup
+- Navigate to the backend folder
 cd backend
 
 -  Install dependencies
 npm install
 
-- Configure PostgreSQL
- Create a PostgreSQL database named 'pokemon_db'
+  ## onfigure PostgreSQL
+ -Create a PostgreSQL database named 'pokemon_db'
 
 -  Update the 'server.js' file with your database credentials
 - Seed the database
