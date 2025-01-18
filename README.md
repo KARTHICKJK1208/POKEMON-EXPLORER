@@ -1,6 +1,6 @@
-# POKEMON-EXPLORER
+# Pokémon Explorer
 
-The Pokemon App is a full-stack web application that fetches Pokémon data from a PostgreSQL database and displays it in a user-friendly interface. It provides features such as Pokémon listing, pagination, and detailed Pokémon information.
+The Pokémon Explorer is a full-stack web application that fetches Pokémon data from a PostgreSQL database and displays it in a user-friendly interface. It provides features such as Pokémon listing, pagination, and detailed Pokémon information.
 
 ## Features
 
@@ -24,35 +24,34 @@ The Pokemon App is a full-stack web application that fetches Pokémon data from 
 
 ## Installation
 
-### Clone the Repository
-
+# Clone the Repository
 git clone https://github.com/KARTHICKJK1208/POKEMON-EXPLORER.git
 cd pokemon
 
-###Backend Setup
-Navigate to the backend folder:
+# Backend Setup
+# Navigate to the backend folder
 cd backend
 
-###Install dependencies:
+# Install dependencies
 npm install
 
-###Configure PostgreSQL:
-Create a PostgreSQL database named pokemon_db.
+# Configure PostgreSQL
+# Create a PostgreSQL database named 'pokemon_db'
 
-###Update the server.js file with your database credentials.
-##Seed the database:
+# Update the 'server.js' file with your database credentials
+
+# Seed the database
 node seed.js
 
-###Start the backend server:
+# Start the backend server
 node server.js
 
-
-###Frontend Setup
-Navigate to the frontend folder:
+# Frontend Setup
+# Navigate to the frontend folder
 cd pokemon
 
-###Install dependencies:
+# Install dependencies
 npm install
 
-###Start the development server:
+# Start the development server
 npm start
