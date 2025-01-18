@@ -36,11 +36,11 @@ cd backend
 npm install
 
 ## Configure PostgreSQL
-## Create a PostgreSQL database named 'pokemon_db'
+### Create a PostgreSQL database named 'pokemon_db'
 
-## Update the 'server.js' file with your database credentials
+### Update the 'server.js' file with your database credentials
 
-## Seed the database
+### Seed the database
 node seed.js
 
 ## Start the backend server
