@@ -1,11 +1,11 @@
-# Pokémon Explorer
+# Pokemon Explorer
 
 The Pokémon Explorer is a full-stack web application that fetches Pokémon data from a PostgreSQL database and displays it in a user-friendly interface. It provides features such as Pokémon listing, pagination, and detailed Pokémon information.
 
 ## Features
 
-- **PokEmon Listing**: Browse a paginated list of Pokémon with their images and names.
-- **Search Pokémon**: View detailed information, including stats, types, height, and weight.
+- **Pokemon Listing**: Browse a paginated list of Pokémon with their images and names.
+- **Search Pokemon**: View detailed information, including stats, types, height, and weight.
 - **Responsive Design**: Optimized for desktops and mobile devices.
 - **Backend API**: RESTful API built with Express.js for efficient data management.
 - **Database**: PostgreSQL database to store Pokémon details and stats.
