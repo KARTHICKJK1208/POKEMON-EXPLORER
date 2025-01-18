@@ -56,32 +56,3 @@ npm install
 npm start
 
 
-pokemon-app/
-├── backend/                   # Backend code
-│   ├── db/                    # Database-related files
-│   │   ├── schema.sql         # SQL schema for creating tables
-│   │   ├── seed.js            # Script to populate database with data
-│   ├── routes/                # API route handlers
-│   │   ├── pokemon.js         # Route handlers for Pokémon API
-│   ├── server.js              # Main server file for Express
-│   ├── package.json           # Node.js dependencies for backend
-│   ├── package-lock.json      # Lockfile for backend dependencies
-│   └── .env                   # Environment variables (database credentials, etc.)
-├── frontend/                  # Frontend code
-│   ├── public/                # Static files
-│   │   ├── index.html         # Main HTML file for React
-│   │   ├── favicon.ico        # Favicon for the app
-│   ├── src/                   # Source files
-│   │   ├── components/        # Reusable React components
-│   │   │   ├── Navbar.js      # Top navigation bar (if needed)
-│   │   ├── pages/             # Page components
-│   │   │   ├── Home.js        # Home page with Pokémon list
-│   │   │   ├── PokemonDetails.js # Pokémon details page
-│   │   ├── styles.css         # Global CSS styles
-│   │   ├── App.js             # Main React component
-│   │   ├── index.js           # Entry point for React app
-│   ├── package.json           # Node.js dependencies for frontend
-│   ├── package-lock.json      # Lockfile for frontend dependencies
-├── README.md                  # Project documentation
-└── .gitignore                 # Files and folders to exclude from version control
-
