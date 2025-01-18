@@ -4,7 +4,7 @@ The Pokémon Explorer is a full-stack web application that fetches Pokémon data
 
 ## Features
 
-- **Pokémon Listing**: Browse a paginated list of Pokémon with their images and names.
+- **PokEmon Listing**: Browse a paginated list of Pokémon with their images and names.
 - **Search Pokémon**: View detailed information, including stats, types, height, and weight.
 - **Responsive Design**: Optimized for desktops and mobile devices.
 - **Backend API**: RESTful API built with Express.js for efficient data management.
@@ -24,34 +24,33 @@ The Pokémon Explorer is a full-stack web application that fetches Pokémon data
 
 ## Installation
 
-## Clone the Repository
+- ** Clone the Repository
 git clone https://github.com/KARTHICKJK1208/POKEMON-EXPLORER.git
 cd pokemon
 
-# Backend Setup
+- ** Backend Setup
 ### Navigate to the backend folder
 cd backend
 
-### Install dependencies
+- ** Install dependencies
 npm install
 
-## Configure PostgreSQL
-### Create a PostgreSQL database named 'pokemon_db'
+- **Configure PostgreSQL
+ Create a PostgreSQL database named 'pokemon_db'
 
-### Update the 'server.js' file with your database credentials
-
-### Seed the database
+- ** Update the 'server.js' file with your database credentials
+- **Seed the database
 node seed.js
 
-## Start the backend server
+- ** Start the backend server
 node server.js
 
-# Frontend Setup
+- ** Frontend Setup
 # Navigate to the frontend folder
 cd pokemon
 
-# Install dependencies
+- ** Install dependencies
 npm install
 
-# Start the development server
+- **Start the development server
 npm start
