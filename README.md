@@ -29,30 +29,30 @@ The Pokemon App is a full-stack web application that fetches Pokémon data from 
 git clone https://github.com/KARTHICKJK1208/POKEMON-EXPLORER.git
 cd pokemon
 
-#Backend Setup
+###Backend Setup
 Navigate to the backend folder:
 cd backend
 
-#Install dependencies:
+###Install dependencies:
 npm install
 
-#Configure PostgreSQL:
+###Configure PostgreSQL:
 Create a PostgreSQL database named pokemon_db.
 
-##Update the server.js file with your database credentials.
-#Seed the database:
+###Update the server.js file with your database credentials.
+##Seed the database:
 node seed.js
 
-#Start the backend server:
+###Start the backend server:
 node server.js
 
 
-#Frontend Setup
+###Frontend Setup
 Navigate to the frontend folder:
 cd pokemon
 
-#Install dependencies:
+###Install dependencies:
 npm install
 
-#Start the development server:
+###Start the development server:
 npm start
