@@ -24,7 +24,7 @@ The Pokémon Explorer is a full-stack web application that fetches Pokémon data
 
 ## Installation
 
-# Clone the Repository
+## Clone the Repository
 git clone https://github.com/KARTHICKJK1208/POKEMON-EXPLORER.git
 cd pokemon
 
