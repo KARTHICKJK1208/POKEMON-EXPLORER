@@ -29,21 +29,21 @@ git clone https://github.com/KARTHICKJK1208/POKEMON-EXPLORER.git
 cd pokemon
 
 # Backend Setup
-# Navigate to the backend folder
+### Navigate to the backend folder
 cd backend
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# Configure PostgreSQL
-# Create a PostgreSQL database named 'pokemon_db'
+## Configure PostgreSQL
+## Create a PostgreSQL database named 'pokemon_db'
 
-# Update the 'server.js' file with your database credentials
+## Update the 'server.js' file with your database credentials
 
-# Seed the database
+## Seed the database
 node seed.js
 
-# Start the backend server
+## Start the backend server
 node server.js
 
 # Frontend Setup
